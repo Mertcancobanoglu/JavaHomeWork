@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/arkadasSayilar/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/arraysDemo/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/asalSayi/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/Conditionals/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/dataTypes/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/loopDemo/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/mukemmelSayi/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/multiDimensionalArrayDemo/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/recapDemo1/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/recapDemo2/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/sesliHarfler/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/stringsDemo/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/switchDemo/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-1/Veriables/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/classes/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/classesWithAttributes/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/methods/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/methods2/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/reCapDemo_Classes/src"/>
+	<classpathentry kind="src" path="java-camp-Homework-main/week-2/sayiBulma/src"/>
+	<classpathentry kind="output" path="java-camp-Homework-main/week-1/Conditionals/bin"/>
+</classpath>
